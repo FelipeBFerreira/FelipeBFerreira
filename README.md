@@ -1,6 +1,6 @@
 ### Hi, How are you👋
 
-- 🔭 I’m currently working at IAP COSMETICOS
+- 🔭 I’m currently working at DSL DISTRIBUIDORA
 - 🌱 I’m currently learning REACT, NODE, HTML, CSS, JAVASCRIPT
 - 👯 I’m looking to collaborate off
 - 💬 Ask me about Web Technology
